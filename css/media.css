@@ -1,0 +1,163 @@
+@media (max-width: 1250px) {
+    .container {
+       width: 90%;
+    }
+}
+
+@media (max-width: 1240px) {
+    .c-2, .contact {
+        width: 800px;
+        text-align: center;
+    }
+
+    .s-1 {
+        flex-direction: column;
+    }
+    .inputbox {
+        margin-top: 30px;
+        margin-left: 150px;
+        justify-content: space-between;
+        align-items: flex-start;
+
+    }
+
+    .threeicons {
+        flex-direction: column;
+    }
+
+    .photos, .c-2 {
+        text-align: center;
+        width: 1100px;
+    }
+
+    .flexphotos {
+       
+        flex-wrap: wrap;
+        justify-content: space-between ;
+
+
+    }
+
+    .photo1 {
+        margin-left: 180px;
+    }
+
+     .photo2, .photo3 {
+        margin-left: 10px;
+    }
+    .photo3 {
+
+        margin-left: 495px;
+        margin-top: 20px;
+    }
+
+    .textarea {
+        margin-left: 150px;
+    }
+
+    .dakavshireba {
+        display: flex;
+    }
+    .startnew-s {
+        flex-direction: column;
+        margin-right:10px ;
+    }
+     .new-s-3 {
+        margin-left: 40px;
+        
+    }
+
+    .new-s {
+        margin-left: 50px;
+        margin-bottom: 40px
+    }
+
+    .new-s-2 {
+        margin-left: 185px;
+        margin-bottom: 40px
+    }
+}
+
+
+@media (max-width:1200px){
+    .flexphotos {
+        justify-content: space-between;
+        flex-direction: row;
+    }
+
+    .photo1 {
+        margin-left: 20px;
+        margin-top: 20px;
+
+    }
+    .photo2 {
+        margin-left: 20px;
+        margin-top: 20px;
+        
+    }
+    .photo3 {
+        margin-left: 20px;
+      
+        
+    }
+}
+
+
+
+
+@media (max-width:1118px){
+    .flexphotos {
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .photo1 {
+        margin-left: 190px;
+        margin-top: 20px;
+
+    }
+    .photo2 {
+        
+        margin-top: 20px;
+        
+    }
+    .photo3 {
+        margin-left: 20px;
+        margin-left: 460px;
+      
+        
+    }
+}
+
+@media (max-width:915px){
+    .flexphotos {
+        justify-content: space-between;
+       flex-direction: column;
+    }
+
+    .photo1 {
+        margin-left: 19px;
+        margin-top: 20px;
+
+    }
+    .photo2 {
+        
+        margin-top: 20px;
+        
+    }
+    .photo3 {
+        margin-left: 20px;
+        margin-left: 460px;
+      
+        
+    }
+}
+
+
+@media (max-width:1160px){
+    .footer {
+       
+        width: 1200px;
+    }
+}
+
